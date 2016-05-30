@@ -1,0 +1,44 @@
+> summary(discipline.pref.usr.by.usr)
+    user_id            value       
+ Min.   :      7   Min.   :0.1000  
+ 1st Qu.: 746972   1st Qu.:0.3333  
+ Median :1491012   Median :0.5000  
+ Mean   :1492201   Mean   :0.6174  
+ 3rd Qu.:2237951   3rd Qu.:1.0000  
+ Max.   :2984888   Max.   :1.0000  
+
+> summary(industry.pref.usr.by.usr)
+    user_id            value       
+ Min.   :      7   Min.   :0.1000  
+ 1st Qu.: 746972   1st Qu.:0.5000  
+ Median :1491012   Median :0.6471  
+ Mean   :1492201   Mean   :0.6931  
+ 3rd Qu.:2237951   3rd Qu.:1.0000  
+ Max.   :2984888   Max.   :1.0000  
+
+> summary(career.pref.usr.by.usr)
+    user_id            value       
+ Min.   :      7   Min.   :0.0000  
+ 1st Qu.: 746972   1st Qu.:0.7500  
+ Median :1491012   Median :1.0000  
+ Mean   :1492201   Mean   :0.8671  
+ 3rd Qu.:2237951   3rd Qu.:1.0000  
+ Max.   :2984888   Max.   :1.0000  
+
+> summary(employment.pref.usr.by.usr)
+    user_id            value       
+ Min.   :      7   Min.   :0.2500  
+ 1st Qu.: 746972   1st Qu.:0.9149  
+ Median :1491012   Median :1.0000
+ Mean   :1492201   Mean   :0.9380  
+ 3rd Qu.:2237951   3rd Qu.:1.0000  
+ Max.   :2984888   Max.   :1.0000  
+
+> summary(region.pref.usr.by.usr)
+    user_id            value        
+ Min.   :      7   Min.   :0.09091  
+ 1st Qu.: 746972   1st Qu.:0.34043  
+ Median :1491012   Median :0.50000  
+ Mean   :1492201   Mean   :0.62956  
+ 3rd Qu.:2237951   3rd Qu.:1.00000  
+ Max.   :2984888   Max.   :1.00000

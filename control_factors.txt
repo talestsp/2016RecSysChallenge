@@ -1,0 +1,6 @@
+considerar repetidos cliques?
+numero de clusters
+retirar cliques já dados? considerando taxa de reclique?
+limiar de frequencia para considerar um item legal
+retirar employment, adicionar tags e title
+trazer items com match no title/jobrole para frente
