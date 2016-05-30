@@ -1,0 +1,14 @@
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.log
+
+*.dat
+*.csv
+*.tsv
